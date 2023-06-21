@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = abramczyk.liamÂ@gmail.com
+	name = Liam Abramczyk
